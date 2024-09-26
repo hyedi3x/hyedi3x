@@ -53,10 +53,10 @@
 <div align=center>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyedi3&exclude_repo=dkssud8150.github.io&layout=compact&theme=github_dark_dimmed" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyedi3x&exclude_repo=dkssud8150.github.io&layout=compact&theme=github_dark_dimmed" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyedi3&theme=github_dark_dimmed&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyedi3x&theme=github_dark_dimmed&show_icons=true" width="42%" />
 </a>
 
 </div>
